@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 7vh;
+}
+
+.facebook {
+    margin-top: 1vh;
+}
+
+h2 {
+    margin-top: 1vh;
+}
+
+h3 {
+    margin-top: 4vh;
+}
